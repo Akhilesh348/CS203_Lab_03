@@ -1,0 +1,1182 @@
+[
+    {
+        "id": 41,
+        "annotations": [
+            {
+                "id": 46,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "wSxcxwLYs0",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:58:45.716916Z",
+                "updated_at": "2025-01-26T10:58:45.717422Z",
+                "draft_created_at": null,
+                "lead_time": 4.373,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "44acdb66-e7f8-4b15-a8d0-db5c68475340",
+                "import_id": null,
+                "last_action": null,
+                "task": 43301,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "4bed661a-img_580.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/4bed661a-img_580.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843139Z",
+        "updated_at": "2025-01-26T10:58:45.785029Z",
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 42,
+        "annotations": [
+            {
+                "id": 47,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "No Trucks"
+                            ]
+                        },
+                        "id": "pcMn0By2qA",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:58:52.049459Z",
+                "updated_at": "2025-01-26T10:58:52.049459Z",
+                "draft_created_at": null,
+                "lead_time": 4.254,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "7ef0b294-e8bc-44b1-94c6-b0241e38d2e7",
+                "import_id": null,
+                "last_action": null,
+                "task": 43302,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "7f8ccba7-img_581.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/7f8ccba7-img_581.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843139Z",
+        "updated_at": "2025-01-26T10:58:52.113177Z",
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 43,
+        "annotations": [
+            {
+                "id": 48,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "No Trucks"
+                            ]
+                        },
+                        "id": "PaNs-wU9cv",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:58:56.865891Z",
+                "updated_at": "2025-01-26T10:58:56.865891Z",
+                "draft_created_at": null,
+                "lead_time": 3.158,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "96008423-1e29-47b2-aa9c-8d736778c55b",
+                "import_id": null,
+                "last_action": null,
+                "task": 43303,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "334bd73b-img_582.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/334bd73b-img_582.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843139Z",
+        "updated_at": "2025-01-26T10:58:56.932688Z",
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 44,
+        "annotations": [
+            {
+                "id": 49,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "No Trucks"
+                            ]
+                        },
+                        "id": "1dGUI5aqzc",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:59:00.965328Z",
+                "updated_at": "2025-01-26T10:59:00.965328Z",
+                "draft_created_at": null,
+                "lead_time": 2.462,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "bf9963cf-351f-4d47-bbe2-241019aa19a8",
+                "import_id": null,
+                "last_action": null,
+                "task": 43304,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "03507c7f-img_583.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/03507c7f-img_583.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843139Z",
+        "updated_at": "2025-01-26T10:59:01.021940Z",
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 45,
+        "annotations": [
+            {
+                "id": 50,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "EKvz826kY_",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:59:05.204650Z",
+                "updated_at": "2025-01-26T10:59:05.204650Z",
+                "draft_created_at": null,
+                "lead_time": 2.528,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "e4c95dba-3341-4249-8405-dd36050bbd0f",
+                "import_id": null,
+                "last_action": null,
+                "task": 43305,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "2e361ff1-img_584.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/2e361ff1-img_584.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843139Z",
+        "updated_at": "2025-01-26T10:59:05.266296Z",
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 46,
+        "annotations": [
+            {
+                "id": 51,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "E_5LXKbRhX",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:59:10.925145Z",
+                "updated_at": "2025-01-26T10:59:10.925145Z",
+                "draft_created_at": null,
+                "lead_time": 4.018,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "2fafd9fb-5f13-45ea-9829-3fbf2d557a63",
+                "import_id": null,
+                "last_action": null,
+                "task": 43306,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "9564e218-img_585.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/9564e218-img_585.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843139Z",
+        "updated_at": "2025-01-26T10:59:10.982589Z",
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 47,
+        "annotations": [
+            {
+                "id": 52,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "No Trucks"
+                            ]
+                        },
+                        "id": "m97p7ETxg4",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:59:18.340039Z",
+                "updated_at": "2025-01-26T10:59:18.340039Z",
+                "draft_created_at": null,
+                "lead_time": 5.705,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "8e52e65e-3bac-4fa0-902c-d3acb59b89c0",
+                "import_id": null,
+                "last_action": null,
+                "task": 43307,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "9c94c17c-img_586.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/9c94c17c-img_586.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T10:59:18.408924Z",
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 48,
+        "annotations": [
+            {
+                "id": 53,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "6SG_I9UI8I",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:59:23.840784Z",
+                "updated_at": "2025-01-26T10:59:23.840784Z",
+                "draft_created_at": null,
+                "lead_time": 3.776,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "dc77e634-ff98-4ed4-9aca-0d18999436b0",
+                "import_id": null,
+                "last_action": null,
+                "task": 43308,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "abecc1d4-img_587.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/abecc1d4-img_587.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T10:59:23.899823Z",
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 49,
+        "annotations": [
+            {
+                "id": 54,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "No Trucks"
+                            ]
+                        },
+                        "id": "1tPHbEn0Z8",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:59:31.985989Z",
+                "updated_at": "2025-01-26T10:59:31.985989Z",
+                "draft_created_at": null,
+                "lead_time": 5.459,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "b5676b6a-2337-4f8a-a127-b73e98ddbab6",
+                "import_id": null,
+                "last_action": null,
+                "task": 43309,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "e890b439-img_588.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/e890b439-img_588.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T10:59:32.041475Z",
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 50,
+        "annotations": [
+            {
+                "id": 55,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "wTbh5hF1Wl",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:59:37.493077Z",
+                "updated_at": "2025-01-26T10:59:37.493077Z",
+                "draft_created_at": null,
+                "lead_time": 3.65,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "4f745673-b56e-41f4-9430-63d0f50431e9",
+                "import_id": null,
+                "last_action": null,
+                "task": 43310,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "b8c44520-img_589.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/b8c44520-img_589.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T10:59:37.546794Z",
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 51,
+        "annotations": [
+            {
+                "id": 56,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "No Trucks"
+                            ]
+                        },
+                        "id": "NKdb92VlMi",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:59:43.610698Z",
+                "updated_at": "2025-01-26T10:59:43.610698Z",
+                "draft_created_at": null,
+                "lead_time": 4.274,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "3f66265a-c111-4bec-9550-b243e6dafd65",
+                "import_id": null,
+                "last_action": null,
+                "task": 43311,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "a325535c-img_590.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/a325535c-img_590.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T10:59:43.677698Z",
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 52,
+        "annotations": [
+            {
+                "id": 57,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "gL0J1Rgvh7",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:59:51.616984Z",
+                "updated_at": "2025-01-26T10:59:51.616984Z",
+                "draft_created_at": null,
+                "lead_time": 6.464,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "922ac9d5-3719-45e7-b5b6-d9b25b9c806d",
+                "import_id": null,
+                "last_action": null,
+                "task": 43312,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "3a430178-img_591.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/3a430178-img_591.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T10:59:51.668407Z",
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 53,
+        "annotations": [
+            {
+                "id": 58,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "XMlY1h3gx5",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T10:59:56.775794Z",
+                "updated_at": "2025-01-26T10:59:56.775794Z",
+                "draft_created_at": null,
+                "lead_time": 3.287,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "ad51c54a-30dd-4411-a9c9-e14eb331eda9",
+                "import_id": null,
+                "last_action": null,
+                "task": 43313,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "d4a79aed-img_592.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/d4a79aed-img_592.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T10:59:56.877382Z",
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 54,
+        "annotations": [
+            {
+                "id": 59,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "No Trucks"
+                            ]
+                        },
+                        "id": "ircmA9HOS2",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T11:00:03.103745Z",
+                "updated_at": "2025-01-26T11:00:03.103745Z",
+                "draft_created_at": null,
+                "lead_time": 3.567,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "41437e91-ebb2-4a86-bab0-811b1653c504",
+                "import_id": null,
+                "last_action": null,
+                "task": 43314,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "e5f8d3b3-img_593.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/e5f8d3b3-img_593.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T11:00:03.165763Z",
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 55,
+        "annotations": [
+            {
+                "id": 60,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "a-43niOtQ7",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T11:00:09.518638Z",
+                "updated_at": "2025-01-26T11:00:09.518638Z",
+                "draft_created_at": null,
+                "lead_time": 3.163,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "629a251a-18c9-4e4c-87fe-a6b6115aa789",
+                "import_id": null,
+                "last_action": null,
+                "task": 43315,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "d7b68f69-img_594.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/d7b68f69-img_594.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T11:00:09.586752Z",
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 56,
+        "annotations": [
+            {
+                "id": 61,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "QFtZcF5Q-Z",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T11:00:16.491917Z",
+                "updated_at": "2025-01-26T11:00:16.491917Z",
+                "draft_created_at": null,
+                "lead_time": 5.218,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "829574ef-2b3b-4588-a4ab-aaeea275761d",
+                "import_id": null,
+                "last_action": null,
+                "task": 43316,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fec9a7d4-img_595.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/fec9a7d4-img_595.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T11:00:16.559068Z",
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 57,
+        "annotations": [
+            {
+                "id": 62,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "s15f_gXBMz",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T11:00:21.631326Z",
+                "updated_at": "2025-01-26T11:00:21.631326Z",
+                "draft_created_at": null,
+                "lead_time": 3.528,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "a9d45c43-706e-46d9-a813-02143b9728a0",
+                "import_id": null,
+                "last_action": null,
+                "task": 43317,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "078b8e95-img_596.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/078b8e95-img_596.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T11:00:21.697354Z",
+        "inner_id": 17,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 58,
+        "annotations": [
+            {
+                "id": 63,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "n493BLN5D3",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T11:00:26.319590Z",
+                "updated_at": "2025-01-26T11:00:26.319590Z",
+                "draft_created_at": null,
+                "lead_time": 3.104,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "baddb6ca-6c48-4406-a633-0d102a777f20",
+                "import_id": null,
+                "last_action": null,
+                "task": 43318,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "9d85eb13-img_597.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/9d85eb13-img_597.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T11:00:26.382669Z",
+        "inner_id": 18,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 59,
+        "annotations": [
+            {
+                "id": 64,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "No Trucks"
+                            ]
+                        },
+                        "id": "uLXhhglexs",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T11:00:31.015216Z",
+                "updated_at": "2025-01-26T11:00:31.015216Z",
+                "draft_created_at": null,
+                "lead_time": 3.085,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "e9f6f15f-aa63-438f-84f2-f10d176da7c0",
+                "import_id": null,
+                "last_action": null,
+                "task": 43319,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "34e972c5-img_598.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/34e972c5-img_598.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T11:00:31.084246Z",
+        "inner_id": 19,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 60,
+        "annotations": [
+            {
+                "id": 65,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Trucks"
+                            ]
+                        },
+                        "id": "pnp409-bg-",
+                        "from_name": "choice",
+                        "to_name": "image",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-26T11:00:35.537851Z",
+                "updated_at": "2025-01-26T11:00:35.537851Z",
+                "draft_created_at": null,
+                "lead_time": 3.061,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "7cebc00b-56ae-4388-a2a4-7498e31a852a",
+                "import_id": null,
+                "last_action": null,
+                "task": 43320,
+                "project": 7,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "0a8403db-img_599.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "/data/upload/7/0a8403db-img_599.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-01-26T10:58:34.843660Z",
+        "updated_at": "2025-01-26T11:00:35.613938Z",
+        "inner_id": 20,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 7,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]
